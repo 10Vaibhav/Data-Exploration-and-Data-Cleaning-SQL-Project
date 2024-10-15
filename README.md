@@ -7,11 +7,15 @@ This repository contains SQL-based projects for two major tasks: Data Exploratio
 ## Main Repository Folder
 Contains the datasets required for both the Data Exploration and Data Cleaning tasks.
 
-## Datasets:
+## Data Exploration Folder
+-It contains SQL scripts and queries focused on exploring the COVID-19 datasets.
+
+## Data Cleaning Folder
+-It contains SQL scripts and queries focused on cleaning and preprocessing the Nashville housing data.
+
+
+### Datasets:
 CovidDeaths.xlsx: Data related to COVID-19 deaths globally.
 CovidVaccinations.xlsx: Data related to COVID-19 vaccination statistics.
 Nashville Housing Data for Data Cleaning.xlsx: Data containing various attributes of housing data in Nashville.
 
--1.Data Exploration folder contains SQL scripts and queries focused on exploring the COVID-19 datasets.
-
--2.Data Cleaning folder contains SQL scripts and queries focused on cleaning and preprocessing the Nashville housing data.
