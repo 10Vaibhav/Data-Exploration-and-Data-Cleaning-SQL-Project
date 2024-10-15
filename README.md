@@ -14,7 +14,7 @@ Contains the datasets required for both the Data Exploration and Data Cleaning t
 -It contains SQL scripts and queries focused on cleaning and preprocessing the Nashville housing data.
 
 
-### Datasets:
+# Datasets:
 CovidDeaths.xlsx: Data related to COVID-19 deaths globally.
 CovidVaccinations.xlsx: Data related to COVID-19 vaccination statistics.
 Nashville Housing Data for Data Cleaning.xlsx: Data containing various attributes of housing data in Nashville.
