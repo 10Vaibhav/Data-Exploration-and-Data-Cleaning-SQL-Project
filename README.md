@@ -19,3 +19,6 @@ CovidDeaths.xlsx: Data related to COVID-19 deaths globally.
 CovidVaccinations.xlsx: Data related to COVID-19 vaccination statistics.
 Nashville Housing Data for Data Cleaning.xlsx: Data containing various attributes of housing data in Nashville.
 
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
+
