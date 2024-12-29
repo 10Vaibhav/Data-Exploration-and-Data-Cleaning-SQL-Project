@@ -65,34 +65,6 @@ This project analyzes COVID-19 death and vaccination data to uncover insights ab
 - Data Type Conversion
 - String Functions
 
-## Setup and Usage
-
-### Prerequisites
-- SQL Server Management Studio (SSMS) or compatible SQL environment
-- Access to the following databases:
-  - PortfolioProject.NashvilleHousing
-  - PortfolioProject.CovidDeaths
-  - PortfolioProject.CovidVaccinations
-
-### Execution
-1. Run the Nashville Housing cleaning script first to prepare the housing data
-2. Execute the COVID analysis queries in sequence as numbered in the script
-3. Views and temporary tables will be created during execution
-
-## Notes
-- Ensure proper backup before running cleaning operations
-- Some operations modify the original data (UPDATE, DELETE statements)
-- Views are created for future visualization purposes
-- Null handling is implemented throughout the scripts
-
-## Future Improvements
-- Add more detailed data validation steps
-- Implement error handling
-- Create additional views for common analyses
-- Add data quality checks
-- Include visualization queries
-
-
 ## 📄 License
 This repository is licensed under the [MIT License](LICENSE).
 
